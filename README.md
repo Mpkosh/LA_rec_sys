@@ -1,6 +1,9 @@
 
 
 # Система рекомендаций пререквизитов и результатов обучения
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j_xS_wrx1gFjXLTtEWUh8FA7qO_G764T?usp=sharing)
+
 TL;DR: Hit Rate перед внедрением в проект: 0.25 для результатов обучения и 0.16 для пререквизитов при 15 рекомендациях.
 
 ## Содержание
